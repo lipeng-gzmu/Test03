@@ -15,6 +15,7 @@
         <thymeleaf-layout-dialect.version>2.1.1</thymeleaf-layout-dialect.version>
     </properties>
     <!--继承父类:SpringBoot版本是1.5.9-->
+     <!--我在远程仓库修改的信息-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
